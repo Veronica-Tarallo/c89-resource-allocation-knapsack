@@ -15,7 +15,7 @@ The system models an annual funding allocation framework where public/private fu
   * Formulated each entity's budget-constrained project selection as a **0/1 Knapsack problem**, maximizing total multi-criteria preference score within the entity's available budget $V$.
   * Implemented an iterative bottom-up **Dynamic Programming** solver (`PDiterativaKP`) running in $\mathcal{O}(n \cdot V)$ time and space with backtracking solution reconstruction.
 * **NP-Hard Year-End Diversification Heuristic:**
-  * Addressed the year-end reallocation phase—an NP-hard subset selection problem maximizing pairwise distance (diversity) within pooled residual funds—via a multi-start **greedy diversification heuristic** (`Ripescaggio` / `TrovaInsiemeMaxDiversita`).
+  * Addressed the year-end reallocation phase, an NP-hard subset selection problem maximizing pairwise distance (diversity) within pooled residual funds, via a multi-start **greedy diversification heuristic** (`Ripescaggio` / `TrovaInsiemeMaxDiversita`).
 * **In-Place Sorting & Asymptotic Complexity Analysis:**
   * Built a custom **HeapSort** module (`heapsort`) guaranteeing $\mathcal{O}(n \log n)$ worst-case time complexity and $\mathcal{O}(1)$ auxiliary space for ordering project IDs.
 
