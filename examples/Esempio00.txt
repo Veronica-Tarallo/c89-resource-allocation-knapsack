@@ -1,0 +1,19 @@
+registrazione 2 Istituto2 730 3 9 185 349
+registrazione 1 Istituto1 857 1 36 328 351
+proposta 6 Progetto6 160 1 12 25 340
+proposta 4 Progetto4 169 1 85 2 175
+selezione 1
+proposta 8 Progetto8 173 2 84 44 337
+selezione 1
+proposta 7 Progetto7 130 1 52 118 156
+ritiro 8
+stampa
+proposta 1 Progetto1 97 4 97 6 306
+proposta 3 Progetto3 174 4 88 100 183
+cancellazione 1
+proposta 5 Progetto5 44 4 98 339 347
+proposta 10 Progetto10 162 2 51 83 212
+ritiro 1
+selezione 2
+proposta 2 Progetto2 102 1 63 321 355
+proposta 9 Progetto9 198 2 89 122 236

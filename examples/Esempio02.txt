@@ -1,0 +1,103 @@
+proposta 50 Progetto50 106 3 32 53 217
+proposta 9 Progetto9 197 3 42 171 251
+registrazione 2 Istituto2 445 3 7 264 331
+registrazione 5 Istituto5 165 2 89 101 237
+proposta 23 Progetto23 287 2 41 48 248
+proposta 3 Progetto3 153 2 91 281 325
+proposta 44 Progetto44 147 3 2 218 339
+proposta 13 Progetto13 267 4 49 307 331
+registrazione 9 Istituto9 387 3 1 133 194
+proposta 43 Progetto43 97 2 24 290 290
+proposta 46 Progetto46 129 1 18 286 290
+registrazione 6 Istituto6 423 1 49 309 355
+proposta 38 Progetto38 288 2 76 153 185
+selezione 5
+proposta 58 Progetto58 165 4 86 358 363
+proposta 10 Progetto10 220 3 3 116 147
+registrazione 8 Istituto8 445 2 94 341 362
+proposta 16 Progetto16 113 1 21 100 213
+proposta 37 Progetto37 204 3 54 364 364
+registrazione 4 Istituto4 313 2 76 275 356
+proposta 17 Progetto17 207 4 13 91 334
+registrazione 1 Istituto1 474 1 75 193 353
+proposta 11 Progetto11 132 4 8 308 339
+registrazione 7 Istituto7 131 4 68 280 285
+selezione 6
+stampa
+proposta 12 Progetto12 86 3 65 364 364
+proposta 32 Progetto32 184 2 87 77 309
+selezione 9
+proposta 33 Progetto33 271 3 11 231 334
+registrazione 10 Istituto10 987 2 63 61 284
+proposta 42 Progetto42 176 2 51 80 193
+selezione 4
+registrazione 3 Istituto3 445 3 88 190 304
+proposta 22 Progetto22 200 1 93 276 331
+proposta 19 Progetto19 163 2 13 128 237
+proposta 21 Progetto21 191 2 20 331 347
+proposta 60 Progetto60 87 4 56 9 237
+proposta 25 Progetto25 153 4 70 142 322
+proposta 7 Progetto7 103 1 84 202 332
+proposta 59 Progetto59 195 4 75 221 237
+proposta 41 Progetto41 286 4 42 103 254
+ritiro 21
+selezione 2
+ritiro 33
+proposta 27 Progetto27 228 3 10 93 361
+selezione 2
+proposta 54 Progetto54 207 3 31 244 324
+proposta 45 Progetto45 84 1 75 360 363
+proposta 24 Progetto24 271 2 65 106 180
+selezione 7
+stampa
+ritiro 9
+proposta 6 Progetto6 117 3 51 325 354
+ritiro 45
+proposta 51 Progetto51 224 2 63 29 74
+selezione 8
+proposta 20 Progetto20 163 1 94 11 218
+proposta 29 Progetto29 181 3 86 249 335
+selezione 1
+selezione 3
+ritiro 29
+ritiro 16
+proposta 2 Progetto2 176 2 5 170 272
+proposta 53 Progetto53 217 4 76 215 230
+proposta 55 Progetto55 180 3 2 255 329
+proposta 36 Progetto36 231 4 49 7 80
+proposta 48 Progetto48 234 1 55 98 288
+proposta 40 Progetto40 257 1 8 24 228
+proposta 34 Progetto34 256 4 1 314 321
+cancellazione 2
+selezione 6
+cancellazione 8
+proposta 30 Progetto30 165 4 44 79 312
+proposta 47 Progetto47 284 1 49 30 84
+proposta 26 Progetto26 169 2 68 182 328
+stampa
+proposta 49 Progetto49 225 2 43 94 200
+proposta 5 Progetto5 272 4 50 209 214
+proposta 56 Progetto56 257 2 39 354 357
+ritiro 7
+ritiro 24
+proposta 18 Progetto18 73 1 17 52 94
+proposta 52 Progetto52 113 2 32 135 253
+selezione 10
+proposta 15 Progetto15 250 3 18 348 359
+proposta 28 Progetto28 81 4 96 161 305
+ritiro 43
+ritiro 41
+proposta 1 Progetto1 159 4 73 85 110
+selezione 4
+proposta 35 Progetto35 216 2 32 161 180
+cancellazione 6
+proposta 31 Progetto31 129 4 20 188 345
+proposta 39 Progetto39 227 2 87 305 345
+ritiro 46
+proposta 14 Progetto14 146 4 76 56 99
+cancellazione 7
+proposta 8 Progetto8 63 1 69 6 92
+proposta 57 Progetto57 130 3 55 189 237
+ritiro 12
+proposta 4 Progetto4 184 3 68 333 338
+cancellazione 9

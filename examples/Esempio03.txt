@@ -1,0 +1,103 @@
+proposta 15 Progetto15 125 4 25 175 255
+proposta 4 Progetto4 166 2 48 303 337
+proposta 11 Progetto11 56 3 31 282 306
+proposta 23 Progetto23 64 3 77 255 284
+proposta 18 Progetto18 208 3 12 319 354
+registrazione 5 Istituto5 792 4 81 39 125
+proposta 55 Progetto55 130 2 92 115 122
+ritiro 23
+proposta 1 Progetto1 241 1 52 290 337
+proposta 14 Progetto14 51 4 55 67 341
+proposta 47 Progetto47 108 1 27 215 323
+proposta 31 Progetto31 270 4 97 328 360
+registrazione 8 Istituto8 544 3 1 22 204
+registrazione 3 Istituto3 983 2 83 111 239
+proposta 21 Progetto21 250 1 26 148 352
+proposta 16 Progetto16 243 4 18 221 246
+proposta 46 Progetto46 276 2 52 207 260
+proposta 50 Progetto50 235 1 48 171 191
+proposta 10 Progetto10 95 4 61 91 234
+proposta 43 Progetto43 138 3 5 48 96
+registrazione 4 Istituto4 336 3 33 352 363
+proposta 19 Progetto19 131 2 57 136 219
+ritiro 31
+registrazione 10 Istituto10 220 3 54 269 358
+proposta 38 Progetto38 163 3 60 133 153
+stampa
+proposta 3 Progetto3 57 2 45 20 342
+proposta 7 Progetto7 277 1 26 300 344
+proposta 13 Progetto13 95 4 32 298 306
+proposta 6 Progetto6 299 2 7 53 221
+proposta 34 Progetto34 203 4 83 95 335
+proposta 20 Progetto20 125 4 29 131 231
+proposta 40 Progetto40 291 4 17 284 299
+proposta 37 Progetto37 156 1 48 138 257
+proposta 57 Progetto57 221 2 97 167 236
+proposta 2 Progetto2 114 4 15 172 342
+proposta 29 Progetto29 269 2 72 355 362
+registrazione 9 Istituto9 190 4 4 197 307
+proposta 42 Progetto42 110 3 70 99 305
+proposta 24 Progetto24 208 2 58 315 322
+proposta 44 Progetto44 78 4 39 140 229
+ritiro 11
+ritiro 1
+proposta 35 Progetto35 50 4 93 146 239
+proposta 36 Progetto36 50 3 42 95 276
+proposta 32 Progetto32 232 2 83 123 341
+registrazione 1 Istituto1 408 2 31 299 303
+registrazione 6 Istituto6 975 4 12 355 360
+selezione 1
+proposta 48 Progetto48 209 3 27 231 314
+selezione 3
+stampa
+proposta 5 Progetto5 299 3 45 221 341
+proposta 41 Progetto41 281 4 3 178 278
+selezione 3
+proposta 22 Progetto22 254 3 51 338 351
+ritiro 46
+registrazione 7 Istituto7 260 2 69 6 268
+proposta 12 Progetto12 124 4 30 104 235
+selezione 7
+proposta 25 Progetto25 114 1 26 275 356
+proposta 56 Progetto56 280 2 55 13 29
+proposta 8 Progetto8 77 2 83 20 126
+proposta 51 Progetto51 163 3 97 132 249
+selezione 6
+ritiro 16
+ritiro 50
+selezione 9
+registrazione 2 Istituto2 561 4 66 280 285
+proposta 58 Progetto58 160 2 10 142 283
+proposta 39 Progetto39 153 4 42 9 161
+selezione 4
+selezione 2
+ritiro 7
+proposta 54 Progetto54 206 4 28 14 68
+proposta 52 Progetto52 56 3 89 105 247
+stampa
+proposta 30 Progetto30 234 2 46 285 285
+selezione 1
+ritiro 30
+proposta 9 Progetto9 229 4 36 25 171
+selezione 5
+cancellazione 6
+selezione 2
+selezione 8
+proposta 26 Progetto26 212 1 19 74 101
+cancellazione 1
+ritiro 34
+proposta 60 Progetto60 61 2 50 321 349
+proposta 17 Progetto17 273 1 77 311 312
+cancellazione 7
+proposta 53 Progetto53 93 1 66 148 218
+proposta 45 Progetto45 108 2 55 74 265
+proposta 28 Progetto28 255 4 91 157 263
+proposta 27 Progetto27 191 1 4 148 282
+cancellazione 4
+ritiro 54
+proposta 33 Progetto33 155 2 50 267 364
+proposta 59 Progetto59 135 4 77 233 362
+proposta 49 Progetto49 261 4 41 233 346
+selezione 10
+ritiro 44
+cancellazione 5

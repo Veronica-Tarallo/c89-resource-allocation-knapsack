@@ -1,0 +1,24 @@
+Ente 1 finanzia 4 6 budget residuo 528
+Ente 1 finanzia 8 budget residuo 355
+Enti
+2 Istituto2 730
+1 Istituto1 4 6 528
+Progetti finanziati
+6 Progetto6 1 Istituto1 160 1 12 25 340
+4 Progetto4 1 Istituto1 169 1 85 2 175
+Progetti disponibili
+7 Progetto7 130 1 52 118 156
+Ente 2 finanzia 3 5 6 7 10 budget residuo 60
+Comitato finanzia budget residuo 60
+Enti
+2 Istituto2 3 5 6 7 10 60
+Progetti finanziati
+6 Progetto6 2 Istituto2 160 1 12 25 340
+7 Progetto7 2 Istituto2 130 1 52 118 156
+3 Progetto3 2 Istituto2 174 4 88 100 183
+5 Progetto5 2 Istituto2 44 4 98 339 347
+10 Progetto10 2 Istituto2 162 2 51 83 212
+Progetti disponibili
+4 Progetto4 169 1 85 2 175
+2 Progetto2 102 1 63 321 355
+9 Progetto9 198 2 89 122 236

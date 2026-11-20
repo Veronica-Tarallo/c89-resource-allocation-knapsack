@@ -1,0 +1,189 @@
+Ente 9 finanzia 24 29 53 54 budget residuo 19
+Enti
+8 Istituto8 420
+9 Istituto9 24 29 53 54 19
+3 Istituto3 921
+6 Istituto6 623
+1 Istituto1 255
+7 Istituto7 849
+Progetti finanziati
+54 Progetto54 9 Istituto9 178 3 31 235 326
+29 Progetto29 9 Istituto9 127 2 45 213 224
+24 Progetto24 9 Istituto9 114 1 46 240 264
+53 Progetto53 9 Istituto9 197 2 27 151 227
+Progetti disponibili
+44 Progetto44 170 1 79 187 245
+8 Progetto8 186 3 69 125 281
+30 Progetto30 212 2 72 207 246
+5 Progetto5 180 1 47 364 364
+37 Progetto37 99 2 59 2 26
+42 Progetto42 194 4 94 2 169
+40 Progetto40 292 1 95 199 325
+12 Progetto12 234 3 68 136 240
+38 Progetto38 95 3 82 148 163
+56 Progetto56 230 3 35 274 309
+2 Progetto2 212 3 33 155 274
+41 Progetto41 85 4 68 73 288
+58 Progetto58 119 1 37 86 249
+16 Progetto16 174 4 5 95 302
+Ente 9 finanzia budget residuo 19
+Ente 7 finanzia 3 18 25 34 37 38 41 58 budget residuo 34
+Ente 4 finanzia 5 budget residuo 133
+Ente 8 finanzia 11 16 57 budget residuo 5
+Ente 3 finanzia 8 26 30 42 44 57 budget residuo 6
+Enti
+9 Istituto9 24 29 53 54 19
+3 Istituto3 8 26 30 42 44 57 6
+6 Istituto6 623
+1 Istituto1 255
+7 Istituto7 18 25 34 37 38 41 58 135
+4 Istituto4 5 133
+2 Istituto2 683
+Progetti finanziati
+54 Progetto54 9 Istituto9 178 3 31 235 326
+44 Progetto44 3 Istituto3 170 1 79 187 245
+8 Progetto8 3 Istituto3 186 3 69 125 281
+30 Progetto30 3 Istituto3 212 2 72 207 246
+5 Progetto5 4 Istituto4 180 1 47 364 364
+37 Progetto37 7 Istituto7 99 2 59 2 26
+29 Progetto29 9 Istituto9 127 2 45 213 224
+42 Progetto42 3 Istituto3 194 4 94 2 169
+24 Progetto24 9 Istituto9 114 1 46 240 264
+53 Progetto53 9 Istituto9 197 2 27 151 227
+38 Progetto38 7 Istituto7 95 3 82 148 163
+41 Progetto41 7 Istituto7 85 4 68 73 288
+58 Progetto58 7 Istituto7 119 1 37 86 249
+18 Progetto18 7 Istituto7 83 4 65 88 263
+25 Progetto25 7 Istituto7 114 3 7 276 290
+34 Progetto34 7 Istituto7 119 2 64 29 347
+57 Progetto57 3 Istituto3 68 3 65 224 236
+26 Progetto26 3 Istituto3 85 2 38 282 310
+Progetti disponibili
+40 Progetto40 292 1 95 199 325
+12 Progetto12 234 3 68 136 240
+56 Progetto56 230 3 35 274 309
+2 Progetto2 212 3 33 155 274
+16 Progetto16 174 4 5 95 302
+31 Progetto31 183 1 88 6 364
+19 Progetto19 278 2 44 117 262
+11 Progetto11 173 2 23 162 320
+32 Progetto32 286 4 99 21 235
+7 Progetto7 218 4 17 291 330
+28 Progetto28 157 1 1 162 266
+55 Progetto55 149 1 78 182 337
+43 Progetto43 223 4 85 127 232
+Ente 7 finanzia budget residuo 135
+Ente 10 finanzia 10 11 12 28 33 55 budget residuo 32
+Ente 2 finanzia 35 51 56 budget residuo 16
+Ente 1 finanzia 9 46 57 budget residuo 2
+Enti
+9 Istituto9 24 29 53 54 19
+6 Istituto6 623
+1 Istituto1 9 46 57 2
+7 Istituto7 18 25 34 37 38 41 58 135
+2 Istituto2 35 51 56 16
+10 Istituto10 11 12 28 33 55 101
+5 Istituto5 651
+Progetti finanziati
+54 Progetto54 9 Istituto9 178 3 31 235 326
+37 Progetto37 7 Istituto7 99 2 59 2 26
+29 Progetto29 9 Istituto9 127 2 45 213 224
+24 Progetto24 9 Istituto9 114 1 46 240 264
+12 Progetto12 10 Istituto10 234 3 68 136 240
+53 Progetto53 9 Istituto9 197 2 27 151 227
+38 Progetto38 7 Istituto7 95 3 82 148 163
+56 Progetto56 2 Istituto2 230 3 35 274 309
+41 Progetto41 7 Istituto7 85 4 68 73 288
+58 Progetto58 7 Istituto7 119 1 37 86 249
+18 Progetto18 7 Istituto7 83 4 65 88 263
+25 Progetto25 7 Istituto7 114 3 7 276 290
+34 Progetto34 7 Istituto7 119 2 64 29 347
+57 Progetto57 1 Istituto1 68 3 65 224 236
+11 Progetto11 10 Istituto10 173 2 23 162 320
+28 Progetto28 10 Istituto10 157 1 1 162 266
+55 Progetto55 10 Istituto10 149 1 78 182 337
+33 Progetto33 10 Istituto10 145 3 43 124 179
+51 Progetto51 2 Istituto2 195 1 30 342 361
+35 Progetto35 2 Istituto2 242 1 57 209 272
+9 Progetto9 1 Istituto1 65 1 2 301 328
+46 Progetto46 1 Istituto1 120 2 99 343 356
+Progetti disponibili
+44 Progetto44 170 1 79 187 245
+8 Progetto8 186 3 69 125 281
+30 Progetto30 212 2 72 207 246
+5 Progetto5 180 1 47 364 364
+40 Progetto40 292 1 95 199 325
+2 Progetto2 212 3 33 155 274
+16 Progetto16 174 4 5 95 302
+31 Progetto31 183 1 88 6 364
+19 Progetto19 278 2 44 117 262
+32 Progetto32 286 4 99 21 235
+7 Progetto7 218 4 17 291 330
+43 Progetto43 223 4 85 127 232
+50 Progetto50 228 4 96 139 231
+45 Progetto45 287 2 14 217 268
+49 Progetto49 168 4 15 343 349
+48 Progetto48 271 1 22 33 65
+23 Progetto23 252 4 40 77 174
+17 Progetto17 227 1 2 341 360
+52 Progetto52 91 3 7 57 129
+Ente 5 finanzia 6 22 30 44 52 budget residuo 16
+Ente 6 finanzia 4 18 21 37 38 41 47 budget residuo 3
+Ente 5 finanzia budget residuo 16
+Comitato finanzia 7 22 31 39 49 52 budget residuo 17
+Enti
+9 Istituto9 24 29 394
+6 Istituto6 4 18 21 37 38 41 47 3
+1 Istituto1 9 46 57 2
+2 Istituto2 35 51 246
+10 Istituto10 11 12 33 55 258
+Progetti finanziati
+37 Progetto37 6 Istituto6 99 2 59 2 26
+29 Progetto29 9 Istituto9 127 2 45 213 224
+24 Progetto24 9 Istituto9 114 1 46 240 264
+12 Progetto12 10 Istituto10 234 3 68 136 240
+38 Progetto38 6 Istituto6 95 3 82 148 163
+41 Progetto41 6 Istituto6 85 4 68 73 288
+18 Progetto18 6 Istituto6 83 4 65 88 263
+31 Progetto31 -1 Comitato 183 1 88 6 364
+57 Progetto57 1 Istituto1 68 3 65 224 236
+11 Progetto11 10 Istituto10 173 2 23 162 320
+7 Progetto7 -1 Comitato 218 4 17 291 330
+55 Progetto55 10 Istituto10 149 1 78 182 337
+33 Progetto33 10 Istituto10 145 3 43 124 179
+51 Progetto51 2 Istituto2 195 1 30 342 361
+35 Progetto35 2 Istituto2 242 1 57 209 272
+49 Progetto49 -1 Comitato 168 4 15 343 349
+9 Progetto9 1 Istituto1 65 1 2 301 328
+46 Progetto46 1 Istituto1 120 2 99 343 356
+52 Progetto52 -1 Comitato 91 3 7 57 129
+22 Progetto22 -1 Comitato 71 4 67 95 95
+47 Progetto47 6 Istituto6 56 4 43 334 339
+21 Progetto21 6 Istituto6 114 2 53 24 197
+4 Progetto4 6 Istituto6 88 4 36 348 359
+39 Progetto39 -1 Comitato 155 1 41 21 49
+Progetti disponibili
+44 Progetto44 170 1 79 187 245
+8 Progetto8 186 3 69 125 281
+30 Progetto30 212 2 72 207 246
+5 Progetto5 180 1 47 364 364
+40 Progetto40 292 1 95 199 325
+2 Progetto2 212 3 33 155 274
+58 Progetto58 119 1 37 86 249
+16 Progetto16 174 4 5 95 302
+25 Progetto25 114 3 7 276 290
+34 Progetto34 119 2 64 29 347
+19 Progetto19 278 2 44 117 262
+32 Progetto32 286 4 99 21 235
+43 Progetto43 223 4 85 127 232
+45 Progetto45 287 2 14 217 268
+23 Progetto23 252 4 40 77 174
+17 Progetto17 227 1 2 341 360
+6 Progetto6 91 3 74 118 203
+13 Progetto13 279 4 60 229 288
+14 Progetto14 106 3 71 330 352
+20 Progetto20 256 4 26 19 274
+1 Progetto1 251 1 64 135 236
+60 Progetto60 289 3 80 79 127
+59 Progetto59 229 2 81 41 225
+27 Progetto27 61 2 63 273 305
