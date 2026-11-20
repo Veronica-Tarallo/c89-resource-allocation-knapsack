@@ -23,10 +23,29 @@ The system models an annual funding allocation framework where public/private fu
 
 ## Repository Structure
 
-```text
-├── finanziamenti.c      # Main entry point, CLI parser, event loop, and year-end reallocation
-├── knapsack.h / .c      # Data structures and memory routines for the 0/1 Knapsack solver
-├── heapsort.h / .c      # In-place max-heap construction and HeapSort implementation
-├── listaelementi.h / .c # Circular doubly linked list ADT, preference scoring, and diversity metrics
-├── item.h / .c          # Core record definitions for projects and funding entities
-└── alloc.h / .c         # Safe dynamic memory allocation wrappers for 1D/2D integer arrays
+- `finanziamenti.c` — Main entry point, CLI parser, event loop, and year-end reallocation
+- `knapsack.h` / `knapsack.c` — Data structures and memory routines for the 0/1 Knapsack solver
+- `heapsort.h` / `heapsort.c` — In-place max-heap construction and HeapSort implementation
+- `listaelementi.h` / `listaelementi.c` — Circular doubly linked list ADT, preference scoring, and diversity metrics
+- `item.h` / `item.c` — Core record definitions for projects and funding entities
+- `alloc.h` / `alloc.c` — Safe dynamic memory allocation wrappers for 1D/2D integer arrays
+
+---
+
+## Compilation & Usage
+
+Compile with any standard C compiler enforcing ANSI C (C89) compliance:
+
+    gcc -std=c89 -Wall -Wextra -pedantic -O2 *.c -o resource_allocator
+
+Run the simulation by passing an event log file as a command-line argument:
+
+    ./resource_allocator events.txt
+
+### Supported Event Commands
+* `proposta <id> <name> <budget> <category> <isee> <start_day> <end_day>` — Submit a new project proposal.
+* `ritiro <id>` — Withdraw an active project proposal (refunding the entity if already funded).
+* `registrazione <id> <name> <budget> <pref_cat> <pref_isee> <pref_start> <pref_end>` — Register a new funding entity.
+* `cancellazione <id>` — Unregister an entity and release its previously funded projects back to the pool.
+* `selezione <entity_id>` — Trigger optimal budget-constrained project selection for an entity via 0/1 Knapsack DP.
+* `stampa` — Output a summary report of registered entities, funded projects, and available projects.
