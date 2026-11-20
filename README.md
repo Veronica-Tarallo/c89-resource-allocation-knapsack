@@ -29,6 +29,7 @@ The system models an annual funding allocation framework where public/private fu
 - `listaelementi.h` / `listaelementi.c` - Circular doubly linked list ADT, preference scoring, and diversity metrics
 - `item.h` / `item.c` - Core record definitions for projects and funding entities
 - `alloc.h` / `alloc.c` - Safe dynamic memory allocation wrappers for 1D/2D integer arrays
+- examples/ - Sample event input logs and expected reference outputs
 
 ---
 
@@ -40,7 +41,7 @@ Compile with any standard C compiler enforcing ANSI C (C89) compliance:
 
 Run the simulation by passing an event log file as a command-line argument:
 
-    ./resource_allocator events.txt
+    ./resource_allocator examples/Esempio00.txt
 
 ### Supported Event Commands
 * `proposta <id> <name> <budget> <category> <isee> <start_day> <end_day>` - Submit a new project proposal.
